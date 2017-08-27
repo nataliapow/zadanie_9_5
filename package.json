@@ -1,0 +1,26 @@
+{
+  "name": "zadanie-9-5",
+  "version": "1.0.0",
+  "description": "kodilla-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliapow/zadanie_9_5.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Natalia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliapow/zadanie_9_5/issues"
+  },
+  "homepage": "https://github.com/nataliapow/zadanie_9_5#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
